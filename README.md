@@ -9,7 +9,7 @@ By bypassing traditional software-based execution and communication delays, this
 > **Research & Documentation:**
 > 
 > 
-> This IP Core was developed as part of an ongoing research on deterministic robot locomotion. For a detailed academic breakdown of the hardware architecture, FSM design, and HIL testing methodology, please refer to our full paper on [arXiv](https://arxiv.org/abs/XXXX.XXXXX).
+> This IP Core was developed as part of an ongoing research on deterministic robot locomotion. For a detailed academic breakdown of the hardware architecture, FSM design, and HIL testing methodology, please refer to my full paper on [arXiv](https://arxiv.org/abs/XXXX.XXXXX).
 > 
 > For future updates (Ackermann, Omniwheel implementations) and more projects, visit the developer's portfolio at [omerhub.com](https://omerhub.com/).
 > 
